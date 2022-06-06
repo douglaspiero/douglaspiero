@@ -2,14 +2,13 @@
           
 ### Bem vindo ao meu Github !!!
 
-Olá, sou Douglas Piero, tenho 34 anos, entusiasta da area de técnologia, estou na aréa a cerca de 13 anos e 4 como programador full-stack.
+##### Olá, sou Douglas Piero, tenho 34 anos, entusiasta da area de técnologia, estou na aréa a cerca de 13 anos e 4 como programador full-stack.
 
-  :pill: Técnologias que utilizo.<br><br>
+  #### :pill: Tecnologias que utilizo atualmente.<br><br>
   :heavy_check_mark:  Front-end
   <br>
-  HTML, CSS, JAVASCRIPT, BOOTSTRAO, TAILWINDCSS, VUEJS, REACTJS, SASS.
-  <br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" whideth="30" height="30"/>
+  ###### HTML, CSS, JAVASCRIPT, BOOTSTRAO, TAILWINDCSS, VUEJS, REACTJS, SASS. 
+  = <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" whideth="30" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"  whideth="30" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" whideth="27" height="27"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" whideth="27" height="27" /> 
@@ -20,9 +19,8 @@ Olá, sou Douglas Piero, tenho 34 anos, entusiasta da area de técnologia, estou
           
   :heavy_check_mark:  Back-end
   <br>
-  NODEJS, JAVASCRIPT, TYPESCRIPT, PHP, JAVA.
-  <br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" whideth="27" height="27" />
+  ###### NODEJS, JAVASCRIPT, TYPESCRIPT, PHP, JAVA.
+  = <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" whideth="27" height="27" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" whideth="27" height="27"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" whideth="27" height="27"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" whideth="27" height="27"/>
@@ -30,7 +28,8 @@ Olá, sou Douglas Piero, tenho 34 anos, entusiasta da area de técnologia, estou
   
   :heavy_check_mark:  Banco de Dados
   <br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" whideth="27" height="27"/>
+  ###### MONGODB,MYSQL,POSTGRESQL,MICROSOFTSQLSERVER
+  = <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" whideth="27" height="27"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" whideth="30" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" whideth="30" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" whideth="30" height="30"/>
